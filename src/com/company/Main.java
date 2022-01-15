@@ -16,7 +16,7 @@ public class Main {
         int[] arraysTwo = {5, 6, 7, 8, 9};
         System.out.println(Arrays.toString(arraysTwo));
 
-        // Задача № 2
+        // Задача №2
 
         int[] arraysOne = new int[]{1, 2, 3};
         for (int i = 0; i < arraysOne.length; i++) {
